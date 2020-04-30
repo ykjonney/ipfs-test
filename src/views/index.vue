@@ -1,6 +1,8 @@
+import test from "./test.vue";
+
 <template>
   <div class="home">
-    <router-link to='/test'>点击</router-link>
+    <router-link to='/test'>test点击</router-link>
   </div>
 </template>
 
